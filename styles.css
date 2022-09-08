@@ -1,7 +1,7 @@
 /* Below is the design for chicken-noodle-soup.html */
 
 .body {
-  font-family: "verdana", "Times New Roman", sans-serif;
+  font-family: "verdana", sans-serif;
 }
 
 .heading {
@@ -26,7 +26,7 @@
 /* Below is the design for chicken-pot-pie.html */
 
 .jaro-body {
-  font-family: "verdana", "Time New Roman", sans-serif;
+  font-family: "verdana", sans-serif;
 }
 
 .jaro {
