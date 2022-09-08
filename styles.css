@@ -1,7 +1,7 @@
 /* Below is the design for chicken-noodle-soup.html */
 
 .body {
-  font-family: 'Times New Roman', sans-serif;
+  font-family: "verdana", "Times New Roman", sans-serif;
 }
 
 .heading {
@@ -12,6 +12,11 @@
 #credit {
   color: red;
   font-weight: 700;
+}
+
+.image {
+  height: autopx;
+  width: 400px;
 }
 
 /* Above is the design for chicken-noodle-soup.html */
