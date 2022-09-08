@@ -18,4 +18,25 @@
 
 
 
+/* Below is the design for chicken-pot-pie.html */
 
+.jaro-body {
+  font-family: "verdana", "Time New Roman", sans-serif;
+}
+
+.jaro {
+  color: green;
+  font-weight: bold;
+}
+
+.jaro-credit {
+  color: red;
+  font-weight: 800;
+}
+
+img {
+  height: auto;
+  width: 400px
+}
+
+/*Above is the design for chicken-pot-pie.html */
