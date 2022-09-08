@@ -45,3 +45,28 @@ img {
 }
 
 /*Above is the design for chicken-pot-pie.html */
+
+
+
+/*Below is the design for noodle-bowl.html */
+
+.paga {
+  font-family: "Verdana", sans-serif;
+}
+
+.paga-credit {
+  color: red;
+  font-weight: bold;
+}
+
+.paga-image {
+  height: auto;
+  width: 400px;
+}
+
+.paga-heading {
+  color: green;
+  font-weight: 700;
+}
+
+/* Above is the design for noodle-bowl.html */
